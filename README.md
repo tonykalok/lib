@@ -3,3 +3,5 @@
 
 ## lodash-4.17.21
 https://tonykalok.github.io/lib/lodash-4.17.21.js
+
+## jquery-3.6.4
