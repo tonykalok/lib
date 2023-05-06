@@ -14,3 +14,8 @@ https://tonykalok.github.io/lib/bulma-sticky-table-2.0.1.css
 https://tonykalok.github.io/lib/pace-1.2.4.css
 
 https://tonykalok.github.io/lib/pace-1.2.4.js
+
+## flatpickr-2.0
+https://tonykalok.github.io/lib/flatpickr-2.0.css
+
+https://tonykalok.github.io/lib/flatpickr-2.0.js
