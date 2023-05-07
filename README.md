@@ -28,3 +28,6 @@ https://tonykalok.github.io/lib/svg-spinner-3-dots-bounce.svg
 https://tonykalok.github.io/lib/svg-spinner-eclipse.svg
 
 https://tonykalok.github.io/lib/svg-spinner-eclipse-half.svg
+
+## jquery-loading-overlay-2.1.7
+https://tonykalok.github.io/lib/jquery-loading-overlay-2.1.7.js
