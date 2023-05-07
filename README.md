@@ -19,3 +19,12 @@ https://tonykalok.github.io/lib/pace-1.2.4.js
 https://tonykalok.github.io/lib/flatpickr-2.0.css
 
 https://tonykalok.github.io/lib/flatpickr-2.0.js
+
+## svg-spinner
+https://tonykalok.github.io/lib/svg-spinner-3-dots-fade.svg
+
+https://tonykalok.github.io/lib/svg-spinner-3-dots-bounce.svg
+
+https://tonykalok.github.io/lib/svg-spinner-eclipse.svg
+
+https://tonykalok.github.io/lib/svg-spinner-eclipse-half.svg
