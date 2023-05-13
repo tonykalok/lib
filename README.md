@@ -29,6 +29,12 @@ https://tonykalok.github.io/lib/svg-spinner-eclipse.svg
 
 https://tonykalok.github.io/lib/svg-spinner-eclipse-half.svg
 
+https://tonykalok.github.io/lib/svg-ellipsis.svg
+
+https://tonykalok.github.io/lib/svg-loading.gif
+
+https://tonykalok.github.io/lib/svg-loading-transparent.gif
+
 ## jquery-loading-overlay-2.1.7
 https://tonykalok.github.io/lib/jquery-loading-overlay-2.1.7.js
 
