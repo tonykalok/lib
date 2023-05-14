@@ -42,3 +42,6 @@ https://tonykalok.github.io/lib/jquery-loading-overlay-2.1.7.js
 
 ## quicklink-2.3.0
 https://tonykalok.github.io/lib/quicklink-2.3.0.js
+
+## echo-1.7.2
+https://tonykalok.github.io/lib/echo-1.7.2.js
