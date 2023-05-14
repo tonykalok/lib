@@ -45,3 +45,6 @@ https://tonykalok.github.io/lib/quicklink-2.3.0.js
 
 ## echo-1.7.2
 https://tonykalok.github.io/lib/echo-1.7.2.js
+
+## lazysizes-5.3.2
+https://tonykalok.github.io/lib/lazysizes-5.3.2.js
