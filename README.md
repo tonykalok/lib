@@ -70,3 +70,8 @@ https://tonykalok.github.io/lib/echo-1.7.2.js
 
 ## lazysizes-5.3.2
 https://tonykalok.github.io/lib/lazysizes-5.3.2.js
+
+## noty-3.2.0
+https://tonykalok.github.io/lib/noty-3.2.0.css
+
+https://tonykalok.github.io/lib/noty-3.2.0.js
