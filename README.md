@@ -1,5 +1,6 @@
 # lib
  Minimum File Size with Custom Compression Algorithms, even smaller than Official Build
+ ** experimental purpose; use at your own risk **
 
 ## lodash-4.17.21
 https://tonykalok.github.io/lib/lodash-4.17.21.js
@@ -9,6 +10,16 @@ https://tonykalok.github.io/lib/jquery-3.6.4.js
 
 ## jquery-3.7.0
 https://tonykalok.github.io/lib/jquery-3.7.0.js
+
+## bootstrap-4.6.2
+https://tonykalok.github.io/lib/bootstrap-4.6.2.css
+
+https://tonykalok.github.io/lib/bootstrap-4.6.2.js
+
+## bootstrap-5.2.3
+https://tonykalok.github.io/lib/bootstrap-5.2.3.css
+
+https://tonykalok.github.io/lib/bootstrap-5.2.3.js
 
 ## bulma-sticky-table-2.0.1
 https://tonykalok.github.io/lib/bulma-sticky-table-2.0.1.css
