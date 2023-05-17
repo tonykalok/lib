@@ -22,6 +22,13 @@ https://tonykalok.github.io/lib/bootstrap-5.2.3.css
 
 https://tonykalok.github.io/lib/bootstrap-5.2.3.js
 
+## bootstrap-icons-1.10.5
+https://tonykalok.github.io/lib/bootstrap-icons-1.10.5.css
+
+https://tonykalok.github.io/lib/bootstrap-icons-1.10.5.woff
+
+https://tonykalok.github.io/lib/bootstrap-icons-1.10.5.woff2
+
 ## bulma-sticky-table-2.0.1
 https://tonykalok.github.io/lib/bulma-sticky-table-2.0.1.css
 
