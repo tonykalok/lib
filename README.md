@@ -32,6 +32,11 @@ https://tonykalok.github.io/lib/bootstrap-icons-1.10.5.woff2
 ## bulma-sticky-table-2.0.1
 https://tonykalok.github.io/lib/bulma-sticky-table-2.0.1.css
 
+## stacktable.js-1.0.3
+https://tonykalok.github.io/lib/stacktable.js-1.0.3.css
+
+https://tonykalok.github.io/lib/stacktable.js-1.0.3.js
+
 ## pace-1.2.4
 https://tonykalok.github.io/lib/pace-1.2.4.css
 
