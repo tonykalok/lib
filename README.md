@@ -75,3 +75,8 @@ https://tonykalok.github.io/lib/lazysizes-5.3.2.js
 https://tonykalok.github.io/lib/noty-3.2.0.css
 
 https://tonykalok.github.io/lib/noty-3.2.0.js
+
+## sweetalert2-11.7.5
+https://tonykalok.github.io/lib/sweetalert2-11.7.5-minimal.css
+
+https://tonykalok.github.io/lib/sweetalert2-11.7.5.js
