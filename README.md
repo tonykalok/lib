@@ -85,3 +85,18 @@ https://tonykalok.github.io/lib/noty-3.2.0.js
 https://tonykalok.github.io/lib/sweetalert2-11.7.5-minimal.css
 
 https://tonykalok.github.io/lib/sweetalert2-11.7.5.js
+
+## json
+https://tonykalok.github.io/lib/json-products-100.json
+
+https://tonykalok.github.io/lib/json-carts-20.json
+
+https://tonykalok.github.io/lib/json-users-100.json
+
+https://tonykalok.github.io/lib/json-posts-150.json
+
+https://tonykalok.github.io/lib/json-comments-340.json
+
+https://tonykalok.github.io/lib/json-quotes-100.json
+
+https://tonykalok.github.io/lib/json-todos-150.json
