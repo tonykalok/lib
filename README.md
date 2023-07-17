@@ -105,3 +105,6 @@ https://tonykalok.github.io/lib/json-todos-150.json
 https://tonykalok.github.io/lib/datatables-1.13.4.css
 
 https://tonykalok.github.io/lib/datatables-1.13.4.js
+
+## avatar
+https://tonykalok.github.io/lib/avatar-sushi.png
