@@ -108,4 +108,5 @@ https://tonykalok.github.io/lib/datatables-1.13.4.js
 
 ## avatar
 https://tonykalok.github.io/lib/avatar-sushi.png
+
 https://tonykalok.github.io/lib/avatar-brain.png
