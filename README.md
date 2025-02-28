@@ -62,6 +62,8 @@ https://tonykalok.github.io/lib/svg-loading.gif
 
 https://tonykalok.github.io/lib/svg-loading-transparent.gif
 
+https://tonykalok.github.io/lib/floating.gif
+
 https://tonykalok.github.io/lib/blank.gif
 
 ## jquery-loading-overlay-2.1.7
